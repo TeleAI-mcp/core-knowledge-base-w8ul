@@ -1,2 +1,3 @@
-# core-knowledge-base-w8ul
-Automated issue comment bot repository
+# Core Knowledge Base W8Ul
+
+Automated issue comment bot repository.
